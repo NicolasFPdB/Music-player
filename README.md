@@ -1,4 +1,4 @@
-# 🎵 Spotify-player
+# 🎵 Music-player
 <p>Site HTML que replica as funcionalidades do Spotify premium, com 4 músicas diferentes.</p>
 
 ### ℹ️ Informações sobre as músicas:
