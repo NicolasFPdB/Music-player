@@ -1,47 +1,39 @@
-# 🎵 Music-player
-<p>Site HTML que replica as funcionalidades do Spotify premium, com 4 músicas diferentes.</p>
+# 🎵 Music Player
 
-### ℹ️ Informações sobre as músicas:
-<ol>
-  <li>Towards the Sun - Rihanna</li>
-  <li>Riot - XXXTENTACION</li>
-  <li>My Hero - Foo Fighters</li>
-  <li>Deixa Alagar - Grupo Revelação</li>
-</ol>
+Um player de música desenvolvido com **HTML, CSS e JavaScript**, criado para praticar desenvolvimento Front-End e manipulação de áudio no navegador.
 
-### ℹ️ Funcionalidades oferecidas:
-<ul>
-  <li>Play/Pause - Botão central</li>
-  <li>Skip/Return - Setas ao lado do play/pause</li>
-  <li>Shuffle - Botão das setas cruzadas</li>
-  <li>Restart - Botão das setas em formato circular</li>
-  <li>Coração - Favoritar música</li>
-  <li>Momento da música - Clique na barra que sinaliza o tempo da música e selecione o momento desejado</li>
-</ul>
+## ✨ Funcionalidades
 
-## ⌨️ Linguagens de programação usadas
+- ▶️ Play / Pause
+- ⏮️ Música anterior
+- ⏭️ Próxima música
+- 🔀 Reprodução aleatória
+- 🔄 Reiniciar música
+- ❤️ Favoritar músicas
+- ⏱️ Barra de progresso
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-/>
+## 🛠️ Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="47">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="38">
+
+## 🚀 Como executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/NicolasFPdB/Music-player.git
+```
+
+Depois, abra o arquivo `index.html` no navegador.
+
+## 🌐 Demonstração
+
+[▶️ Acessar o Music Player](https://nicolasfpdb.github.io/Music-player/)
+
+## 👨‍💻 Autor
+
+**NicolasFPdB**
+
+[GitHub](https://github.com/NicolasFPdB)
